@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body {
+	font-size: 11px;
+}
+
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
